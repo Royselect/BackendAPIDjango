@@ -27,7 +27,7 @@ REST API для платформы, где художники могут выс�
 
 ### Установка
 ```bash
-git clone https://github.com/ваш/репозиторий.git
+git clone https://github.com/Halstens/ArtGalleryAPI.git
 cd art-gallery-api
 pip install -r requirements.txt
 python manage.py migrate
